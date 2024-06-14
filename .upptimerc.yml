@@ -46,6 +46,9 @@ sites:
   - name: 엠네트워크 마스토돈
     url: https://mastodon.mnetwork.co.kr/api/v1/instance/activity
     slug: mastodon.mnetwork.co.kr
+  - name: 머스타드
+    url: https://mustard.blog/api/v1/instance/activity
+    slug: mustard.blog
   - name: 차돌이
     url: https://t.chadole.com/api/v1/instance/activity
     slug: t.chadole.com
