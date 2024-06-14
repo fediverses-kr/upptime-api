@@ -146,7 +146,7 @@ status-website:
     - title: "업데이트 요청하기"
       href: "javascript:if(window.confirm('서버 상태 확인하기 > 업데이트 요청하기 를 눌러주세요.')){window.open('https://sjang1.github.io/kor-fed/chatbot.html');}"
     - title: Web
-      href: https://github.com/$OWNER/upptime
+      href: https://upptime.fediverses.kr/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
