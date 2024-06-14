@@ -56,7 +56,7 @@ sites:
     url: https://bakedbean.xyz/api/v1/instance/activity
     slug: bakedbean.xyz
   - name: 콘오.펍
-    url: https://kono.pub/api/v1/instance/activity
+    url: https://kono.pub/api/v2/instance
     slug: kono.pub
   - name: 티알피지
     url: https://trpg-o.xyz/api/v1/instance/activity
