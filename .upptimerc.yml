@@ -129,6 +129,13 @@ sites:
     headers:
     - "Content-Type: application/json"
     body: '{"detail": true}'
+  - name: 요단강 익스프레스
+    url: https://yodangang.express/api/meta
+    method: POST
+    slug: yodangang.express
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
 
 
 status-website:
