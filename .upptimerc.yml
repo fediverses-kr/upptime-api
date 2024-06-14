@@ -1,34 +1,152 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: fediverses-kr # Your GitHub organization or username, where this repository lives
+repo: upptime-api # The name of this repository
+
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Bluesky (SocialApp XRPC)
+    url: https://bsky.social/xrpc/com.atproto.server.describeServer
+  - name: 플래닛
+    url: https://planet.moe/api/v1/instance/activity
+    slug: planet.moe
+  - name: 큐돈
+    url: https://qdon.space/api/v1/instance/activity
+    slug: qdon.space
+  - name: 즘
+    url: https://jmm.kr/api/v1/instance/activity
+    slug: jmm.kr
+  - name: 유루툿
+    url: https://toot.funami.tech/api/v1/instance/activity
+    slug: toot.funami.tech
+  - name: 우리인생
+    url: https://uri.life/api/v1/instance/activity
+    slug: uri.life
+  - name: 마라탕.인생
+    url: https://maratang.life/api/v1/instance/activity
+    slug: maratang.life
+  - name: 커리
+    url: https://kurry.social/api/v1/instance/activity
+    slug: kurry.social
+  - name: 자커마스
+    url: https://occm.cc/api/v1/instance/activity
+    slug: occm.cc
+  - name: 포인트리스
+    url: https://pointless.chat/api/v1/instance/activity
+    slug: pointless.chat
+  - name: 무리 네트워크
+    url: https://muri.network/api/v1/instance/activity
+    slug: muri.network
+    headers:
+    - "$SECRET_HEADER_1: $SECRET_HEADER_2"
+  - name: 넷스피어 원
+    url: https://netsphere.one/api/v1/instance/activity
+    slug: netsphere.one
+    headers:
+    - "$SECRET_HEADER_1: $SECRET_HEADER_2"
+  - name: 엠네트워크 마스토돈
+    url: https://mastodon.mnetwork.co.kr/api/v1/instance/activity
+    slug: mastodon.mnetwork.co.kr
+  - name: 차돌이
+    url: https://t.chadole.com/api/v1/instance/activity
+    slug: t.chadole.com
+  - name: 알피지 주점
+    url: https://krpgpub.net/api/v1/instance/activity
+    slug: krpgpub.net
+  - name: 슈퍼마-켙
+    url: https://bakedbean.xyz/api/v1/instance/activity
+    slug: bakedbean.xyz
+  - name: 콘오.펍
+    url: https://kono.pub/api/v1/instance/activity
+    slug: kono.pub
+  - name: 티알피지
+    url: https://trpg-o.xyz/api/v1/instance/activity
+    slug: trpg-o.xyz
+  - name: S'More
+    url: https://s.mysw.moe/api/v1/instance/activity
+  - name: 캐츠워즈 콜로세움
+    url: https://catswords.social/api/v1/instance/activity
+    slug: catswords.social
+  - name: 페일 블루 보이저
+    url: https://town.voyager.blue/api/v1/instance/activity
+    slug: town.voyager.blue
+  - name: 덕스페이스
+    url: https://duk.space/api/v1/instance/activity
+    slug: duk.space
+  - name: 미스키한국
+    url: https://misskey.kr/api/meta
+    method: POST
+    slug: misskey.kr
+    headers:
+    - "Content-Type: application/json"
+    - "$SECRET_HEADER_1: $SECRET_HEADER_2"
+    body: '{"detail": true}'
+  - name: 키라링
+    url: https://k.lapy.link/api/meta
+    method: POST
+    slug: k.lapy.link
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
+  - name: 버터스콘
+    url: https://buttersc.one/api/meta
+    method: POST
+    slug: buttersc.one
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
+  - name: 맛소스통
+    url: https://masost.one/api/meta
+    method: POST
+    slug: masost.one
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
+  - name: 호토모에
+    url: https://hoto.moe/api/meta
+    method: POST
+    slug: hoto.moe
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
+  - name: 코코넥트
+    url: https://kokonect.link/api/meta
+    method: POST
+    slug: kokonect.link
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
+  - name: 고양이별
+    url: https://nekoplanet.xyz/api/meta
+    method: POST
+    slug: nekoplanet.xyz
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
+  - name: 대피소
+    url: https://daepi.so/api/meta
+    method: POST
+    slug: daepi.so
+    headers:
+    - "Content-Type: application/json"
+    body: '{"detail": true}'
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: upptime-api.fediverses.kr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 연합우주 API상태
+  introTitle: "한국 연합우주 API 서버의 상황을 보여드립니다"
+  introMessage: "[Upptime](https://github.com/upptime/upptime)을 이용한 한국 연합우주 서버상태 조회 시스템입니다. 정확하지 않을 수 있으니 실시간 정보는 [연합우주 챗봇](https://sjang1.github.io/kor-fed/chatbot.html)에서 확인해주세요."
   navbar:
-    - title: Status
+    - title: "서버 상태"
       href: /
+    - title: "업데이트 요청하기"
+      href: "javascript:if(window.confirm('서버 상태 확인하기 > 업데이트 요청하기 를 눌러주세요.')){window.open('https://sjang1.github.io/kor-fed/chatbot.html');}"
+    - title: Web
+      href: https://github.com/$OWNER/upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
