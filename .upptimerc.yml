@@ -6,6 +6,11 @@ repo: upptime-api # The name of this repository
 sites:
   - name: Bluesky (SocialApp XRPC)
     url: https://bsky.social/xrpc/com.atproto.server.describeServer
+  - name: Bridgy Fed
+    url: $BRIDGY_FED_API_URL
+    headers: # Add no cache header due to request
+    - "Pragma: no-cache"
+    - "Cache-Control: no-cache"
   - name: 플래닛
     url: https://planet.moe/api/v1/instance/activity
     slug: planet.moe
