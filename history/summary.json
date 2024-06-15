@@ -184,19 +184,19 @@
     "url": "https://muri.network/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1322,
-    "timeDay": 923,
-    "timeWeek": 1322,
-    "timeMonth": 1322,
-    "timeYear": 1322,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 1292,
+    "timeDay": 942,
+    "timeWeek": 1292,
+    "timeMonth": 1292,
+    "timeYear": 1292,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 9
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://netsphere.one/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1060,
-    "timeDay": 678,
-    "timeWeek": 1060,
-    "timeMonth": 1060,
-    "timeYear": 1060,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 1031,
+    "timeDay": 696,
+    "timeWeek": 1031,
+    "timeMonth": 1031,
+    "timeYear": 1031,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 9
     }
   },
   {
