@@ -562,19 +562,19 @@
     "url": "https://yodangang.express/api/meta",
     "icon": "https://icons.duckduckgo.com/ip3/yodangang.express.ico",
     "slug": "yodangang.express",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 757,
-    "timeDay": 736,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 754,
+    "timeDay": 738,
+    "timeWeek": 754,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 16
     }
   }
 ]
