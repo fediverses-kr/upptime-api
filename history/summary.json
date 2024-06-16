@@ -364,19 +364,19 @@
     "url": "https://s.mysw.moe/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/s.mysw.moe.ico",
     "slug": "s-more",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 790,
-    "timeDay": 830,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 818,
+    "timeDay": 908,
+    "timeWeek": 818,
+    "timeMonth": 818,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 7
     }
   },
   {
