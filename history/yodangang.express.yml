@@ -1,7 +1,7 @@
 url: https://yodangang.express/api/meta
-status: up
-code: 200
-responseTime: 594
-lastUpdated: 2024-06-15T23:44:59.264Z
+status: down
+code: 502
+responseTime: 634
+lastUpdated: 2024-06-16T13:27:49.268Z
 startTime: 2024-06-14T09:38:43.958Z
 generator: Upptime <https://github.com/upptime/upptime>
