@@ -437,18 +437,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.kr.ico",
     "slug": "misskey.kr",
     "status": "down",
-    "uptime": "81.70%",
-    "uptimeDay": "40.07%",
-    "uptimeWeek": "81.70%",
-    "uptimeMonth": "81.70%",
-    "uptimeYear": "81.70%",
+    "uptime": "81.56%",
+    "uptimeDay": "39.49%",
+    "uptimeWeek": "81.56%",
+    "uptimeMonth": "81.56%",
+    "uptimeYear": "81.56%",
     "time": 731,
     "timeDay": 504,
     "timeWeek": 731,
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-06-17": 863
+      "2024-06-17": 871
     }
   },
   {
@@ -582,19 +582,19 @@
     "url": "https://yodangang.express/api/meta",
     "icon": "https://icons.duckduckgo.com/ip3/yodangang.express.ico",
     "slug": "yodangang.express",
-    "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
-    "time": 770,
-    "timeDay": 837,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 761,
+    "timeDay": 809,
+    "timeWeek": 761,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-06-17": 54,
+      "2024-06-17": 62,
       "2024-06-15": 16
     }
   }
