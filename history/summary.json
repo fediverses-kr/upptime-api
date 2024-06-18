@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 1176,
     "timeDay": 1281,
     "timeWeek": 1176,
     "timeMonth": 1176,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2024-06-18": 28
+      "2024-06-18": 19
     }
   },
   {
@@ -223,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 832,
     "timeDay": 761,
     "timeWeek": 832,
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2024-06-18": 28
+      "2024-06-18": 19
     }
   },
   {
@@ -441,18 +441,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.kr.ico",
     "slug": "misskey.kr",
     "status": "down",
-    "uptime": "69.33%",
+    "uptime": "65.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.33%",
-    "uptimeMonth": "69.33%",
-    "uptimeYear": "69.33%",
+    "uptimeWeek": "65.27%",
+    "uptimeMonth": "65.27%",
+    "uptimeYear": "65.27%",
     "time": 686,
     "timeDay": 244,
     "timeWeek": 686,
     "timeMonth": 686,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-06-18": 338,
+      "2024-06-18": 684,
       "2024-06-17": 1367
     }
   },
@@ -587,18 +587,19 @@
     "url": "https://yodangang.express/api/meta",
     "icon": "https://icons.duckduckgo.com/ip3/yodangang.express.ico",
     "slug": "yodangang.express",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 752,
     "timeDay": 786,
     "timeWeek": 752,
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
+      "2024-06-18": 0,
       "2024-06-17": 54,
       "2024-06-15": 16
     }
