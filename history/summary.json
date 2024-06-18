@@ -202,19 +202,19 @@
     "url": "https://muri.network/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 1173,
-    "timeDay": 1265,
-    "timeWeek": 1173,
-    "timeMonth": 1173,
-    "timeYear": 1173,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 1176,
+    "timeDay": 1281,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {
-      "2024-06-18": 19
+      "2024-06-18": 28
     }
   },
   {
@@ -222,19 +222,19 @@
     "url": "https://netsphere.one/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 832,
-    "timeDay": 760,
+    "timeDay": 761,
     "timeWeek": 832,
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2024-06-18": 19
+      "2024-06-18": 28
     }
   },
   {
@@ -441,18 +441,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.kr.ico",
     "slug": "misskey.kr",
     "status": "down",
-    "uptime": "69.45%",
+    "uptime": "69.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.45%",
-    "uptimeMonth": "69.45%",
-    "uptimeYear": "69.45%",
+    "uptimeWeek": "69.33%",
+    "uptimeMonth": "69.33%",
+    "uptimeYear": "69.33%",
     "time": 686,
     "timeDay": 244,
     "timeWeek": 686,
     "timeMonth": 686,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-06-18": 329,
+      "2024-06-18": 338,
       "2024-06-17": 1367
     }
   },
