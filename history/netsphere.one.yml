@@ -1,7 +1,7 @@
 url: https://netsphere.one/api/v1/instance/activity
-status: up
-code: 200
-responseTime: 817
-lastUpdated: 2024-06-28T23:13:26.466Z
+status: down
+code: 403
+responseTime: 798
+lastUpdated: 2024-06-29T17:59:26.228Z
 startTime: 2024-06-14T09:00:12.316Z
 generator: Upptime <https://github.com/upptime/upptime>
