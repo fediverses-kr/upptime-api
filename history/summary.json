@@ -119,19 +119,19 @@
     "url": "https://uri.life/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/uri.life.ico",
     "slug": "uri.life",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 391,
-    "timeWeek": 297,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 331,
+    "timeDay": 433,
+    "timeWeek": 322,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-07-12": 1
+      "2024-07-12": 9
     }
   },
   {
@@ -510,7 +510,7 @@
     "timeMonth": 357,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-07-12": 395,
+      "2024-07-12": 403,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
