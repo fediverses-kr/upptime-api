@@ -1,7 +1,7 @@
 url: https://bakedbean.xyz/api/v1/instance/activity
-status: down
-code: 502
-responseTime: 2777
-lastUpdated: 2024-07-16T22:56:40.034Z
+status: up
+code: 200
+responseTime: 796
+lastUpdated: 2024-07-16T23:14:01.845Z
 startTime: 2024-06-14T09:00:19.608Z
 generator: Upptime <https://github.com/upptime/upptime>
