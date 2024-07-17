@@ -455,9 +455,9 @@
     "url": "https://catswords.social/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/catswords.social.ico",
     "slug": "catswords.social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -466,7 +466,9 @@
     "timeWeek": 924,
     "timeMonth": 965,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-17": 0
+    }
   },
   {
     "name": "페일 블루 보이저 네트워크",
@@ -523,7 +525,7 @@
     "timeMonth": 209,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-07-17": 162,
+      "2024-07-17": 182,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -701,12 +703,12 @@
     "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "97.44%",
     "time": 1066,
     "timeDay": 622,
     "timeWeek": 714,
-    "timeMonth": 1138,
+    "timeMonth": 1144,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2024-06-22": 244,
