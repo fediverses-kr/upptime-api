@@ -1,7 +1,7 @@
 url: https://catswords.social/api/v1/instance/activity
-status: up
-code: 200
-responseTime: 1857
-lastUpdated: 2024-07-31T23:13:00.623Z
+status: down
+code: 530
+responseTime: 1533
+lastUpdated: 2024-08-01T03:32:08.076Z
 startTime: 2024-06-14T09:00:25.888Z
 generator: Upptime <https://github.com/upptime/upptime>
