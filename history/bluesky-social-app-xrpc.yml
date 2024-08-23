@@ -1,7 +1,7 @@
 url: https://bsky.social/xrpc/com.atproto.server.describeServer
 status: up
 code: 200
-responseTime: 183
-lastUpdated: 2024-08-22T23:12:44.150Z
+responseTime: 166
+lastUpdated: 2024-08-23T23:12:23.458Z
 startTime: 2024-06-14T08:59:58.931Z
 generator: Upptime <https://github.com/upptime/upptime>
