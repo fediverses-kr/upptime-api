@@ -1,7 +1,7 @@
 url: https://muri.network/api/v1/instance/activity
-status: up
-code: 200
-responseTime: 1147
-lastUpdated: 2024-08-24T07:08:41.347Z
+status: down
+code: 403
+responseTime: 881
+lastUpdated: 2024-08-24T15:24:57.975Z
 startTime: 2024-06-14T09:00:07.967Z
 generator: Upptime <https://github.com/upptime/upptime>
