@@ -1,7 +1,7 @@
 url: https://trpg-o.xyz/api/v1/instance/activity
-status: up
-code: 200
-responseTime: 694
-lastUpdated: 2024-10-07T23:13:49.012Z
+status: down
+code: 500
+responseTime: 5495
+lastUpdated: 2024-10-08T13:33:55.877Z
 startTime: 2024-06-14T09:00:23.671Z
 generator: Upptime <https://github.com/upptime/upptime>
