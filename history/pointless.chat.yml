@@ -1,7 +1,7 @@
 url: https://pointless.chat/api/v1/instance/activity
-status: up
-code: 200
-responseTime: 479
-lastUpdated: 2024-10-08T23:14:57.878Z
+status: down
+code: 502
+responseTime: 296
+lastUpdated: 2024-10-09T08:18:07.910Z
 startTime: 2024-06-14T09:00:07.165Z
 generator: Upptime <https://github.com/upptime/upptime>
