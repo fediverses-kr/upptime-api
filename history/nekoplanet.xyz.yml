@@ -1,7 +1,7 @@
 url: https://nekoplanet.xyz/api/meta
-status: up
-code: 200
-responseTime: 226
-lastUpdated: 2024-10-16T23:15:18.872Z
+status: down
+code: 500
+responseTime: 268
+lastUpdated: 2024-10-17T20:10:35.537Z
 startTime: 2024-06-14T09:00:36.357Z
 generator: Upptime <https://github.com/upptime/upptime>
