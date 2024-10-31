@@ -1,7 +1,7 @@
 url: https://uri.life/api/v1/instance/activity
-status: up
-code: 200
-responseTime: 524
-lastUpdated: 2024-10-30T23:14:16.140Z
+status: down
+code: 502
+responseTime: 467
+lastUpdated: 2024-10-31T09:10:37.246Z
 startTime: 2024-06-14T09:00:03.746Z
 generator: Upptime <https://github.com/upptime/upptime>
