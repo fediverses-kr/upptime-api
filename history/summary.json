@@ -652,7 +652,7 @@
     "timeMonth": 268,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-11-21": 199,
+      "2024-11-21": 224,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -920,19 +920,19 @@
     "url": "https://daepi.so/api/meta",
     "icon": "https://icons.duckduckgo.com/ip3/daepi.so.ico",
     "slug": "daepi.so",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 924,
-    "timeWeek": 827,
-    "timeMonth": 781,
-    "timeYear": 839,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 838,
+    "timeDay": 851,
+    "timeWeek": 813,
+    "timeMonth": 779,
+    "timeYear": 838,
     "dailyMinutesDown": {
-      "2024-11-21": 1
+      "2024-11-21": 25
     }
   },
   {
