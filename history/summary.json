@@ -243,9 +243,9 @@
     "slug": "muri.network",
     "status": "up",
     "uptime": "97.60%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "97.60%",
     "time": 1089,
     "timeDay": 1055,
@@ -253,7 +253,6 @@
     "timeMonth": 922,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2024-11-24": 10,
       "2024-11-23": 37,
       "2024-11-21": 16,
       "2024-11-20": 30,
@@ -317,7 +316,8 @@
       "2024-06-29": 24,
       "2024-06-28": 16,
       "2024-06-25": 15,
-      "2024-06-24": 15
+      "2024-06-24": 15,
+      "2024-06-23": 15
     }
   },
   {
@@ -327,9 +327,9 @@
     "slug": "netsphere.one",
     "status": "up",
     "uptime": "97.69%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "97.69%",
     "time": 766,
     "timeDay": 717,
@@ -337,7 +337,6 @@
     "timeMonth": 718,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2024-11-24": 10,
       "2024-11-23": 37,
       "2024-11-21": 16,
       "2024-11-20": 30,
@@ -401,7 +400,8 @@
       "2024-06-29": 24,
       "2024-06-28": 16,
       "2024-06-25": 15,
-      "2024-06-24": 15
+      "2024-06-24": 15,
+      "2024-06-23": 15
     }
   },
   {
@@ -640,18 +640,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.kr.ico",
     "slug": "misskey.kr",
     "status": "down",
-    "uptime": "24.53%",
+    "uptime": "24.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.53%",
+    "uptimeYear": "24.51%",
     "time": 402,
     "timeDay": 231,
     "timeWeek": 225,
     "timeMonth": 269,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-11-24": 1422,
+      "2024-11-25": 113,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
