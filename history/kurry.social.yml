@@ -1,7 +1,7 @@
 url: https://kurry.social/api/v1/instance/activity
-status: down
-code: 530
-responseTime: 422
-lastUpdated: 2024-11-27T02:40:17.818Z
+status: up
+code: 200
+responseTime: 464
+lastUpdated: 2024-11-27T03:21:58.676Z
 startTime: 2024-06-14T09:00:05.267Z
 generator: Upptime <https://github.com/upptime/upptime>
