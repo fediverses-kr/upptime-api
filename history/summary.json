@@ -659,7 +659,7 @@
     "timeMonth": 263,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2024-12-09": 947,
+      "2024-12-09": 956,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -874,10 +874,10 @@
     "url": "https://hoto.moe/api/meta",
     "icon": "https://icons.duckduckgo.com/ip3/hoto.moe.ico",
     "slug": "hoto.moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 834,
@@ -886,6 +886,7 @@
     "timeMonth": 641,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2024-12-09": 1,
       "2024-08-31": 42,
       "2024-08-13": 63,
       "2024-06-19": 160
