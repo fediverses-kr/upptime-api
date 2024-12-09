@@ -245,9 +245,9 @@
     "slug": "muri.network",
     "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "97.80%",
     "time": 1095,
     "timeDay": 1047,
@@ -255,7 +255,7 @@
     "timeMonth": 1098,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2024-12-08": 49,
+      "2024-12-08": 41,
       "2024-12-07": 17,
       "2024-12-05": 30,
       "2024-12-03": 20,
@@ -319,7 +319,8 @@
       "2024-07-08": 21,
       "2024-07-07": 34,
       "2024-07-06": 15,
-      "2024-07-05": 97
+      "2024-07-05": 97,
+      "2024-07-03": 17
     }
   },
   {
@@ -329,9 +330,9 @@
     "slug": "netsphere.one",
     "status": "up",
     "uptime": "97.88%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "97.88%",
     "time": 764,
     "timeDay": 726,
@@ -339,7 +340,7 @@
     "timeMonth": 737,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-12-08": 49,
+      "2024-12-08": 41,
       "2024-12-07": 17,
       "2024-12-05": 30,
       "2024-12-03": 20,
@@ -403,7 +404,8 @@
       "2024-07-08": 21,
       "2024-07-07": 34,
       "2024-07-06": 15,
-      "2024-07-05": 417
+      "2024-07-05": 417,
+      "2024-07-03": 17
     }
   },
   {
@@ -646,18 +648,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.kr.ico",
     "slug": "misskey.kr",
     "status": "down",
-    "uptime": "22.59%",
+    "uptime": "22.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.59%",
+    "uptimeYear": "22.58%",
     "time": 390,
     "timeDay": 249,
     "timeWeek": 245,
     "timeMonth": 263,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2024-12-08": 1438,
+      "2024-12-09": 118,
+      "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
