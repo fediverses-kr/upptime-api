@@ -245,18 +245,19 @@
     "url": "https://muri.network/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
-    "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "98.09%",
+    "status": "down",
+    "uptime": "98.10%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "98.10%",
     "time": 1089,
     "timeDay": 1078,
     "timeWeek": 1074,
     "timeMonth": 1040,
     "timeYear": 1089,
     "dailyMinutesDown": {
+      "2025-01-05": 0,
       "2025-01-02": 17,
       "2024-12-29": 15,
       "2024-12-28": 16,
@@ -324,8 +325,7 @@
       "2024-07-22": 26,
       "2024-07-19": 43,
       "2024-07-17": 32,
-      "2024-07-16": 21,
-      "2024-07-15": 18
+      "2024-07-16": 21
     }
   },
   {
@@ -333,18 +333,19 @@
     "url": "https://netsphere.one/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "status": "down",
+    "uptime": "98.29%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 759,
     "timeDay": 796,
     "timeWeek": 765,
     "timeMonth": 717,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2025-01-05": 1,
       "2025-01-02": 17,
       "2024-12-29": 15,
       "2024-12-28": 16,
@@ -410,8 +411,7 @@
       "2024-07-26": 16,
       "2024-07-24": 34,
       "2024-07-22": 26,
-      "2024-07-19": 43,
-      "2024-07-17": 32
+      "2024-07-19": 43
     }
   },
   {
@@ -667,7 +667,7 @@
     "timeMonth": 234,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-01-05": 112,
+      "2025-01-05": 196,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
