@@ -203,9 +203,9 @@
     "url": "https://occm.cc/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/occm.cc.ico",
     "slug": "occm.cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -215,6 +215,7 @@
     "timeMonth": 811,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2025-01-12": 0,
       "2024-08-03": 86,
       "2024-08-02": 63
     }
@@ -247,18 +248,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
     "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "98.15%",
+    "uptime": "98.14%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "98.14%",
     "time": 1094,
     "timeDay": 921,
     "timeWeek": 1342,
     "timeMonth": 1101,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2025-01-12": 8,
       "2025-01-11": 24,
       "2025-01-05": 62,
       "2025-01-02": 17,
@@ -326,7 +326,8 @@
       "2024-07-26": 16,
       "2024-07-24": 34,
       "2024-07-22": 26,
-      "2024-07-19": 43
+      "2024-07-19": 43,
+      "2024-07-17": 32
     }
   },
   {
@@ -336,9 +337,9 @@
     "slug": "netsphere.one",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "98.31%",
     "time": 758,
     "timeDay": 826,
@@ -346,7 +347,6 @@
     "timeMonth": 719,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2025-01-12": 8,
       "2025-01-11": 24,
       "2025-01-05": 126,
       "2025-01-02": 17,
@@ -413,7 +413,8 @@
       "2024-07-28": 29,
       "2024-07-26": 16,
       "2024-07-24": 34,
-      "2024-07-22": 26
+      "2024-07-22": 26,
+      "2024-07-19": 18
     }
   },
   {
@@ -669,7 +670,7 @@
     "timeMonth": 229,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-01-12": 951,
+      "2025-01-12": 998,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
