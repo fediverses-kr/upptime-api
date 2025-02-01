@@ -259,17 +259,17 @@
     "url": "https://muri.network/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
-    "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "98.33%",
-    "time": 1087,
-    "timeDay": 796,
-    "timeWeek": 959,
-    "timeMonth": 1065,
-    "timeYear": 1087,
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "98.34%",
+    "time": 1086,
+    "timeDay": 806,
+    "timeWeek": 956,
+    "timeMonth": 1063,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-02-01": 22,
       "2025-01-31": 36,
@@ -343,7 +343,7 @@
       "2024-08-12": 36,
       "2024-08-10": 18,
       "2024-08-05": 22,
-      "2024-08-01": 78
+      "2024-08-01": 38
     }
   },
   {
@@ -351,19 +351,19 @@
     "url": "https://netsphere.one/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.85%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "98.55%",
     "time": 754,
-    "timeDay": 613,
+    "timeDay": 632,
     "timeWeek": 717,
     "timeMonth": 716,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-02-01": 22,
+      "2025-02-01": 23,
       "2025-01-31": 36,
       "2025-01-30": 20,
       "2025-01-29": 16,
@@ -433,8 +433,7 @@
       "2024-08-22": 616,
       "2024-08-17": 33,
       "2024-08-12": 36,
-      "2024-08-10": 18,
-      "2024-08-05": 22
+      "2024-08-10": 18
     }
   },
   {
@@ -691,7 +690,7 @@
     "timeMonth": 231,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-02-01": 981,
+      "2025-02-01": 1113,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
