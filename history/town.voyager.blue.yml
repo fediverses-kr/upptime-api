@@ -1,7 +1,7 @@
 url: https://town.voyager.blue/api/v1/instance/activity
-status: down
-code: 502
-responseTime: 1202
-lastUpdated: 2025-02-03T03:10:54.159Z
+status: up
+code: 200
+responseTime: 1277
+lastUpdated: 2025-02-03T04:47:58.764Z
 startTime: 2024-06-14T09:00:27.462Z
 generator: Upptime <https://github.com/upptime/upptime>
