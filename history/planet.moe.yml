@@ -1,7 +1,7 @@
 url: https://planet.moe/api/v1/instance/activity
-status: down
-code: 502
-responseTime: 588
-lastUpdated: 2025-02-08T06:45:01.790Z
+status: up
+code: 200
+responseTime: 597
+lastUpdated: 2025-02-08T06:53:15.408Z
 startTime: 2024-06-14T08:59:59.526Z
 generator: Upptime <https://github.com/upptime/upptime>
