@@ -4,9 +4,9 @@
     "url": "https://bsky.social/xrpc/com.atproto.server.describeServer",
     "icon": "https://icons.duckduckgo.com/ip3/bsky.social.ico",
     "slug": "bluesky-social-app-xrpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 224,
     "timeYear": 315,
     "dailyMinutesDown": {
+      "2025-02-22": 0,
       "2025-01-09": 19,
       "2024-10-17": 117
     }
@@ -164,8 +165,8 @@
     "status": "up",
     "uptime": "96.11%",
     "uptimeDay": "60.05%",
-    "uptimeWeek": "84.88%",
-    "uptimeMonth": "68.62%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "68.95%",
     "uptimeYear": "96.11%",
     "time": 729,
     "timeDay": 846,
@@ -227,7 +228,7 @@
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.42%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "99.45%",
     "time": 632,
     "timeDay": 725,
@@ -716,7 +717,7 @@
     "timeMonth": 264,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-02-22": 925,
+      "2025-02-22": 1071,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1071,7 +1072,7 @@
     "uptimeYear": "99.98%",
     "time": 284,
     "timeDay": 256,
-    "timeWeek": 303,
+    "timeWeek": 334,
     "timeMonth": 330,
     "timeYear": 284,
     "dailyMinutesDown": {
