@@ -523,19 +523,19 @@
     "url": "https://krpgpub.net/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/krpgpub.net.ico",
     "slug": "krpgpub.net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 507,
-    "timeDay": 500,
-    "timeWeek": 497,
-    "timeMonth": 492,
+    "timeDay": 550,
+    "timeWeek": 510,
+    "timeMonth": 495,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-02-25": 1
+      "2025-02-25": 31
     }
   },
   {
@@ -721,7 +721,7 @@
     "timeMonth": 258,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-02-25": 165,
+      "2025-02-25": 195,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -1045,7 +1045,7 @@
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.75%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "99.65%",
     "time": 773,
     "timeDay": 854,
