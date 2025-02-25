@@ -523,10 +523,10 @@
     "url": "https://krpgpub.net/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/krpgpub.net.ico",
     "slug": "krpgpub.net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
@@ -534,7 +534,9 @@
     "timeWeek": 497,
     "timeMonth": 492,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 1
+    }
   },
   {
     "name": "슈퍼마-켙",
@@ -719,7 +721,7 @@
     "timeMonth": 258,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-02-25": 107,
+      "2025-02-25": 165,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -1043,7 +1045,7 @@
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.65%",
     "time": 773,
     "timeDay": 854,
