@@ -1,7 +1,7 @@
 url: https://maratang.life/api/v1/instance/activity
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-08T23:13:08.842Z
+status: up
+code: 200
+responseTime: 1543
+lastUpdated: 2025-03-09T03:27:00.788Z
 startTime: 2024-06-14T09:00:04.330Z
 generator: Upptime <https://github.com/upptime/upptime>
