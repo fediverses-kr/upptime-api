@@ -177,7 +177,7 @@
     "timeMonth": 692,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-04-03": 679,
+      "2025-04-03": 701,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 427,
@@ -308,19 +308,19 @@
     "url": "https://muri.network/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "72.12%",
-    "uptimeWeek": "95.40%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "95.39%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "98.77%",
     "time": 1047,
-    "timeDay": 829,
-    "timeWeek": 843,
+    "timeDay": 832,
+    "timeWeek": 844,
     "timeMonth": 864,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2025-04-03": 326,
+      "2025-04-03": 327,
       "2025-04-02": 76,
       "2025-03-31": 17,
       "2025-03-30": 22,
@@ -395,8 +395,7 @@
       "2024-10-12": 23,
       "2024-10-10": 18,
       "2024-10-09": 19,
-      "2024-10-06": 16,
-      "2024-10-05": 17
+      "2024-10-06": 16
     }
   },
   {
@@ -404,19 +403,19 @@
     "url": "https://netsphere.one/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "72.12%",
-    "uptimeWeek": "95.40%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "95.39%",
     "uptimeMonth": "98.03%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 747,
-    "timeDay": 706,
-    "timeWeek": 717,
-    "timeMonth": 715,
+    "timeDay": 708,
+    "timeWeek": 719,
+    "timeMonth": 716,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2025-04-03": 326,
+      "2025-04-03": 327,
       "2025-04-02": 76,
       "2025-03-31": 17,
       "2025-03-30": 22,
@@ -490,8 +489,7 @@
       "2024-10-10": 18,
       "2024-10-09": 19,
       "2024-10-06": 16,
-      "2024-10-05": 17,
-      "2024-10-04": 21
+      "2024-10-05": 17
     }
   },
   {
@@ -761,7 +759,7 @@
     "timeMonth": 288,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-04-03": 680,
+      "2025-04-03": 702,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
