@@ -168,8 +168,8 @@
     "status": "down",
     "uptime": "87.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "35.13%",
-    "uptimeMonth": "30.69%",
+    "uptimeWeek": "35.05%",
+    "uptimeMonth": "30.67%",
     "uptimeYear": "87.82%",
     "time": 725,
     "timeDay": 0,
@@ -177,7 +177,7 @@
     "timeMonth": 679,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-04-05": 352,
+      "2025-04-05": 360,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -311,9 +311,9 @@
     "url": "https://muri.network/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "36.06%",
+    "uptimeDay": "36.59%",
     "uptimeWeek": "80.43%",
     "uptimeMonth": "94.58%",
     "uptimeYear": "99.16%",
@@ -323,7 +323,7 @@
     "timeMonth": 880,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2025-04-05": 267,
+      "2025-04-05": 268,
       "2025-04-04": 911,
       "2025-04-03": 681,
       "2025-04-02": 76,
@@ -377,8 +377,7 @@
       "2024-12-25": 27,
       "2024-12-24": 18,
       "2024-12-22": 21,
-      "2024-12-21": 21,
-      "2024-12-20": 19
+      "2024-12-21": 21
     }
   },
   {
@@ -386,19 +385,19 @@
     "url": "https://netsphere.one/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "36.05%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "36.58%",
     "uptimeWeek": "80.43%",
     "uptimeMonth": "94.58%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 748,
-    "timeDay": 746,
-    "timeWeek": 743,
+    "timeDay": 747,
+    "timeWeek": 744,
     "timeMonth": 730,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-04-05": 267,
+      "2025-04-05": 268,
       "2025-04-04": 911,
       "2025-04-03": 681,
       "2025-04-02": 76,
@@ -452,8 +451,7 @@
       "2024-12-25": 27,
       "2024-12-24": 38,
       "2024-12-22": 21,
-      "2024-12-21": 21,
-      "2024-12-20": 19
+      "2024-12-21": 21
     }
   },
   {
@@ -723,7 +721,7 @@
     "timeMonth": 289,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-04-05": 352,
+      "2025-04-05": 360,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
