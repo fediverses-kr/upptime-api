@@ -89,19 +89,19 @@
     "url": "https://jmm.kr/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/jmm.kr.ico",
     "slug": "jmm.kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 699,
-    "timeDay": 781,
-    "timeWeek": 670,
-    "timeMonth": 675,
+    "timeDay": 734,
+    "timeWeek": 672,
+    "timeMonth": 676,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-04-13": 1
+      "2025-04-13": 22
     }
   },
   {
@@ -179,7 +179,7 @@
     "timeMonth": 605,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2025-04-13": 356,
+      "2025-04-13": 378,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -320,18 +320,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri.network",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "94.17%",
-    "uptimeMonth": "91.62%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.08%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "91.64%",
+    "uptimeYear": "99.08%",
     "time": 1029,
     "timeDay": 1327,
     "timeWeek": 954,
     "timeMonth": 906,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2025-04-13": 9,
       "2025-04-12": 78,
       "2025-04-11": 19,
       "2025-04-10": 41,
@@ -362,7 +361,8 @@
       "2025-02-28": 37,
       "2025-02-26": 15,
       "2025-02-21": 16,
-      "2025-02-20": 125
+      "2025-02-20": 125,
+      "2025-02-17": 17
     }
   },
   {
@@ -371,18 +371,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "94.17%",
-    "uptimeMonth": "91.62%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.07%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "91.64%",
+    "uptimeYear": "99.07%",
     "time": 747,
     "timeDay": 864,
     "timeWeek": 734,
     "timeMonth": 733,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2025-04-13": 9,
       "2025-04-12": 78,
       "2025-04-11": 19,
       "2025-04-10": 41,
@@ -414,7 +413,7 @@
       "2025-02-26": 15,
       "2025-02-21": 16,
       "2025-02-20": 106,
-      "2025-02-17": 17
+      "2025-02-17": 106
     }
   },
   {
@@ -537,7 +536,7 @@
     "slug": "kono.pub",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "92.06%",
+    "uptimeDay": "93.59%",
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.90%",
@@ -685,7 +684,7 @@
     "timeMonth": 262,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-04-13": 357,
+      "2025-04-13": 379,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
