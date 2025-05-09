@@ -325,17 +325,16 @@
     "slug": "muri.network",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "99.13%",
     "time": 1043,
     "timeDay": 1022,
     "timeWeek": 1564,
-    "timeMonth": 1163,
+    "timeMonth": 1166,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-05-09": 8,
       "2025-05-07": 42,
       "2025-05-03": 53,
       "2025-05-02": 21,
@@ -362,7 +361,7 @@
       "2025-04-02": 76,
       "2025-03-31": 17,
       "2025-03-30": 22,
-      "2025-03-27": 23
+      "2025-03-27": 46
     }
   },
   {
@@ -371,18 +370,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere.one",
     "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "99.13%",
     "time": 748,
     "timeDay": 774,
     "timeWeek": 738,
-    "timeMonth": 754,
+    "timeMonth": 753,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-05-09": 8,
       "2025-05-03": 53,
       "2025-05-02": 21,
       "2025-05-01": 43,
@@ -408,7 +406,8 @@
       "2025-04-02": 76,
       "2025-03-31": 17,
       "2025-03-30": 22,
-      "2025-03-27": 46
+      "2025-03-27": 46,
+      "2025-03-24": 28
     }
   },
   {
@@ -683,7 +682,7 @@
     "timeMonth": 220,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-05-09": 300,
+      "2025-05-09": 577,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -1139,18 +1138,19 @@
     "url": "https://daepi.so/api/meta",
     "icon": "https://icons.duckduckgo.com/ip3/daepi.so.ico",
     "slug": "daepi.so",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 863,
-    "timeDay": 729,
-    "timeWeek": 814,
-    "timeMonth": 780,
+    "timeDay": 811,
+    "timeWeek": 824,
+    "timeMonth": 783,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-05-09": 1,
       "2024-11-21": 25
     }
   },
