@@ -6,9 +6,9 @@
     "slug": "bluesky-social-app-xrpc",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 304,
     "timeDay": 1105,
@@ -16,7 +16,6 @@
     "timeMonth": 320,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-05-20": 11,
       "2025-01-09": 19,
       "2024-10-17": 117
     }
@@ -170,11 +169,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang.life",
     "status": "up",
-    "uptime": "86.97%",
+    "uptime": "86.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.97%",
+    "uptimeYear": "86.98%",
     "time": 704,
     "timeDay": 634,
     "timeWeek": 563,
@@ -326,9 +325,9 @@
     "slug": "muri.network",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.16%",
     "time": 1040,
     "timeDay": 892,
@@ -336,7 +335,6 @@
     "timeMonth": 1062,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-05-20": 11,
       "2025-05-09": 22,
       "2025-05-07": 42,
       "2025-05-03": 53,
@@ -363,7 +361,8 @@
       "2025-04-03": 681,
       "2025-04-02": 76,
       "2025-03-31": 17,
-      "2025-03-30": 22
+      "2025-03-30": 22,
+      "2025-03-27": 23
     }
   },
   {
@@ -373,9 +372,9 @@
     "slug": "netsphere.one",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "99.17%",
     "time": 752,
     "timeDay": 754,
@@ -383,7 +382,6 @@
     "timeMonth": 854,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2025-05-20": 11,
       "2025-05-09": 22,
       "2025-05-03": 53,
       "2025-05-02": 21,
@@ -410,7 +408,7 @@
       "2025-04-02": 76,
       "2025-03-31": 17,
       "2025-03-30": 22,
-      "2025-03-27": 23
+      "2025-03-27": 46
     }
   },
   {
@@ -502,18 +500,19 @@
     "url": "https://bakedbean.xyz/api/v1/instance/activity",
     "icon": "https://icons.duckduckgo.com/ip3/bakedbean.xyz.ico",
     "slug": "bakedbean.xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 688,
-    "timeDay": 722,
-    "timeWeek": 581,
-    "timeMonth": 670,
-    "timeYear": 688,
+    "time": 687,
+    "timeDay": 410,
+    "timeWeek": 532,
+    "timeMonth": 653,
+    "timeYear": 687,
     "dailyMinutesDown": {
+      "2025-05-21": 1,
       "2025-03-07": 130,
       "2025-01-25": 35,
       "2024-11-23": 42,
@@ -687,7 +686,8 @@
     "timeMonth": 216,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-05-20": 1423,
+      "2025-05-21": 109,
+      "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
