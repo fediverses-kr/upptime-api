@@ -1,7 +1,7 @@
 url: https://kono.pub/api/v2/instance
-status: up
-code: 200
-responseTime: 796
-lastUpdated: 2025-05-23T23:15:46.259Z
+status: down
+code: 502
+responseTime: 987
+lastUpdated: 2025-05-24T22:00:29.309Z
 startTime: 2024-06-14T09:00:21.076Z
 generator: Upptime <https://github.com/upptime/upptime>
