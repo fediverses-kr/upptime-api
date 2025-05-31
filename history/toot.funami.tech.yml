@@ -1,7 +1,7 @@
 url: https://toot.funami.tech/api/v1/instance/activity
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-05-30T23:15:19.635Z
+status: down
+code: 502
+responseTime: 579
+lastUpdated: 2025-05-31T05:53:10.121Z
 startTime: 2024-06-14T09:00:02.792Z
 generator: Upptime <https://github.com/upptime/upptime>
